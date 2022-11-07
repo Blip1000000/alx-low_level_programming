@@ -1,5 +1,5 @@
-ifndef MAIN_H
-#define MAIN_H
+#ifndef HOLBERTON_H
+#define HOLBERTON_H
 
 int _putchar(char c);
 char *create_array(unsigned int size, char c);
@@ -11,3 +11,4 @@ char *argstostr(int ac, char **av);
 char **strtow(char *str);
 
 #endif
+
